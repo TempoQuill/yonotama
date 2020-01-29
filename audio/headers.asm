@@ -88,8 +88,12 @@ SFX_Unused::
     audio SFX_Unused, Ch4
 ; 04 7f29
 
+SFX_Switch::
+    audio SFX_Switch, Ch4
 ; 04 7e2c
 
+SFX_Place::
+    audio SFX_Place, Ch4
 ; 04 7e5c
 
 SFX_Score::

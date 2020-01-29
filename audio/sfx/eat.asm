@@ -8,7 +8,7 @@ SFX_Eat_Ch4:
     notetype 12, 15, 1
     octave 3
     pitchbend 0, 96
-    volume
+    unknown0xf0
     endchannel
 
 SFX_Eat_Ch5:
@@ -23,5 +23,5 @@ SFX_EatSolo_Ch5:
     notetype 12, 13, 1
     octave 3
     pitchbend 0, 96
-    volume
+    unknown0xf0
     endchannel

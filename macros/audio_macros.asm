@@ -239,6 +239,13 @@ volume: MACRO
 	db (\1 << 4) | \2
 ENDM
 
+; appears in SFX_Eat
+; not known what this
+; macro actually does
+unknown0xf0: MACRO
+	db $F0
+ENDM
+
 ; seems to be responsible for
 ; syncing sprite anims
 ; exclusive to Ch3

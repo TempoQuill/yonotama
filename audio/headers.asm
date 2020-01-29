@@ -1,7 +1,7 @@
 Sound_headers:: ; 0x7c2c
     db $ff, $ff, $ff ; padding
 
-; drumkit
+; drums
 
 SFX_UnusedDrum1::
     audio SFX_UnusedDrum1, Ch7
